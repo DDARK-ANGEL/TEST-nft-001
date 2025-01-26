@@ -1,6 +1,6 @@
 {
-    "image": "https://raw.githubusercontent.com/DDARK-ANGEL/TEST-nft-001/refs/heads/main/image/1.jpg",
+    "image": "https://raw.githubusercontent.com/DDARK-ANGEL/TEST-nft-001/refs/heads/main/image/1.gif",
     "description": "TEST description",
-    "animation_url": "https://raw.githubusercontent.com/DDARK-ANGEL/TEST-nft-001/refs/heads/main/video/1.gif",
+    "animation_url": null,
     "name": "TEST 01 (gif)"
   }
